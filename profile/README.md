@@ -1,33 +1,46 @@
-# Olum.js
+# ⚡ OlumJS
 
-A minimal JavaScript framework that compiles HTML, CSS, and JS into a reactive SPA. There is no complex toolchain to learn. If you can write a basic HTML file, you already know Olum.
+**OlumJS** is a minimal JavaScript framework that compiles HTML, CSS, and JS into a reactive SPA.
 
-👉 **[Try Olum in the browser →](https://olumjs.top/playground)**
+If you can write basic HTML, you already know the fundamentals of Olum.
 
-## 📦 Repositories
+👉 [**Try Olum in the browser →**](https://olumjs.top/playground)
 
-### Core
+## 📖 Learn
 
-* **[olum](https://github.com/olumjs/olum)** – The core framework containing the compiler, router, and component engine.
-* **[olum-compiler](https://github.com/olumjs/olum-compiler)** – The standalone compiler, available on npm.
+* 📚 [**Documentation**](https://olumjs.top/docs) — Learn OlumJS and its ecosystem
+* 🧪 [**Examples**](https://olumjs.top/playground) — Learn through examples
+* 🎮 [**Playground**](https://playground.olumjs.top/) — Experiment with OlumJS in the browser
+* 💻 [**Sandbox**](https://code.olumjs.top/) — Online coding environment
+* 🤖 [**llms.txt**](https://www.olumjs.top/llms.txt) — Give OlumJS knowledge to your AI assistant
 
-### Ecosystem
+## 📦 Core
 
-* **[olum-cli](https://github.com/olumjs/olum-cli)** – CLI for creating and managing Olum projects.
-* **[olum-router](https://github.com/olumjs/olum-router)** – Client-side routing for Olum.
-* **[olum-store](https://github.com/olumjs/olum-store)** – Global state management for Olum.
-* **[olum-transition](https://github.com/olumjs/olum-transition)** – Transitions and animations for Olum.
-* **[olum-ui](https://github.com/olumjs/olum-ui)** – UI components for building Olum applications.
-* **[olum-icons](https://github.com/olumjs/olum-icons)** – SVG icons for Olum projects.
-* **[olum-devtool](https://github.com/olumjs/olum-devtool)** – Developer tools for debugging Olum applications.
-* **[olum-vsc](https://github.com/olumjs/olum-vsc)** – Visual Studio Code extension for Olum.
+* [**olum**](https://github.com/olumjs/olum) — Core framework
+* [**olum-compiler**](https://github.com/olumjs/olum-compiler) — Standalone compiler
 
-## 🌐 Resources
+## 🧩 Ecosystem
 
-* **[Documentation](https://olumjs.top/docs)** – Learn Olum and explore the ecosystem.
-* **[Examples](https://olumjs.top/playground)** – Learn Olum by examples.
-* **[Olum Playground](https://playground.olumjs.top/)** – Experiment with Olum directly in the browser.
-* **[Olum Sandbox](https://code.olumjs.top/)** – Online coding environment for Olum.
-* **[Olum UI](https://ui.olumjs.top/)** – Component library and UI resources.
-* **[Olum Icons](https://icons.olumjs.top/)** – Browse and copy Olum icons.
-* **[VS Code Extension](https://marketplace.visualstudio.com/items?itemName=eissapk.olum)** – Olum language support for Visual Studio Code.
+* [**olum-cli**](https://github.com/olumjs/olum-cli) — Create and manage OlumJS projects
+* [**olum-router**](https://github.com/olumjs/olum-router) — Client-side routing
+* [**olum-store**](https://github.com/olumjs/olum-store) — Global state management
+* [**olum-transition**](https://github.com/olumjs/olum-transition) — Transitions and animations
+* [**olum-ui**](https://github.com/olumjs/olum-ui) — UI components
+* [**olum-icons**](https://github.com/olumjs/olum-icons) — SVG icons
+* [**olum-devtool**](https://github.com/olumjs/olum-devtool) — Developer tools
+* [**olum-vsc**](https://github.com/olumjs/olum-vsc) — VS Code extension
+
+## 🎨 Design Resources
+
+* [**Olum UI**](https://ui.olumjs.top/) — Components and UI resources
+* [**Olum Icons**](https://icons.olumjs.top/) — Browse and copy icons
+* [**VS Code Extension**](https://marketplace.visualstudio.com/items?itemName=eissapk.olum) — Olum language support
+
+## 🤝 Community
+
+* 💬 [**Discord**](https://discord.gg/2zK7tb2Cg9)
+* 🐙 [**GitHub**](https://github.com/olumjs)
+
+---
+
+**Build with HTML. Add reactivity. Ship with OlumJS.**
