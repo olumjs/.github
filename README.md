@@ -1,4 +1,4 @@
-# ⚡ OlumJS
+# ▼ OlumJS
 
 **OlumJS** is a minimal JavaScript framework that compiles HTML, CSS, and JS into a reactive SPA.
 
